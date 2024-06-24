@@ -14,14 +14,25 @@ Then he replied "Previously ,before this phonepe,googlepay,paytm apps were not i
 So this even boosted me to create something for them.
 I came up with a web application named "GifTip"(Gifting in the form of tip)
 
-Home page :
+Home page : 
+
+   ![1](https://github.com/Sanjoe27/Giftip/assets/98551759/3fab4313-c821-4bb5-9c70-28356d808d29)
 
 
 1) Idea is to provide tips to waiters using this web application.
 2) we just need their photo(to identify him) and UPI QR Code(to make payment to them).
 3) The access will be given to restaurent owners and he'll upload the photo and qr code of the waiter.
-4) A new page will be created on the restaurent name which contains picture of the waiter and by clicking on the waiter ,we will be redirect to payment gateway as the backend procedure will be done(redirect to waiters account as he gave his qr code)
-5) Now just select the mode of payment and make the payment.
+4) A new page will be created on the restaurent name which contains picture of the waiter.
+
+
+    ![2](https://github.com/Sanjoe27/Giftip/assets/98551759/e61ae105-c8c0-4f05-bf6a-d792a0f17362)
+
+   
+6) And by clicking on the waiter picture ,we will be redirect to payment gateway as the backend procedure will be done(redirect to waiters account as he gave his qr code)
+
+    ![3](https://github.com/Sanjoe27/Giftip/assets/98551759/2c458758-fa74-4e99-87a5-17c7512be8c8)
+   
+8) Now just select the mode of payment and make the payment.
 
 
 ## Actual Problem :
@@ -30,5 +41,15 @@ In the 5th step ,just soon after the payment ,it will redirect us to the restaur
 
 We all know that ,for business google ratings & reviews are very important. Using our application restaurents can boost their ratings & reviews ,which can recommend to many users near by. So that the restaurent owners can get good business. 
 
-Home page :
+  ![4](https://github.com/Sanjoe27/Giftip/assets/98551759/b02d5869-8315-4330-972b-52fa74b5f3f1)
+
+
+## Conclusion :
+Finally we solved multiple problems
+1) Hepled waiters by Providing additional income to waiters for better lifestyle
+2) Helping restaurant owners by adding google ratings and  reviews ,which will increase their customer count
+3) And also as a product manager we can make 5% charge on every transaction ,which every waiter is happy to give as we solved their problem.
+
+
+---------Please give a star if you really like this project :)-------------
 
