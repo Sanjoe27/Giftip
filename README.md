@@ -1,4 +1,8 @@
 # Giftip
+Web Application Link : https://gif-tip-app-lzx0e0.flutterflow.app/
+<br /> Note : Its designed for mobile ,Please try to open it in mobile
+
+
 1) Providing additional income to waiters for better lifestyle
 2) Helping restaurant owners by adding google ratings and  reviews ,which will increase their customer count
 3) Making 5% income from every transaction ,where all the waiters are happy to give
